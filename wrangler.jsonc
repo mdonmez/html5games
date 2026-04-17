@@ -1,0 +1,5 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "html5games",
+  "compatibility_date": "2026-04-17"
+}
