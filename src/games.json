@@ -1,0 +1,26 @@
+[
+	{
+		"id": "flappybird",
+		"name": "Flappy Bird",
+		"cover": "/covers/flappybird.png",
+		"path": "/games/flappybird/index.html"
+	},
+	{
+		"id": "FNAF2",
+		"name": "FNAF 2",
+		"cover": "/covers/fnaf2.jpg",
+		"path": "/games/FNAF2/index.html"
+	},
+	{
+		"id": "gunspin",
+		"name": "GunSpin",
+		"cover": "/covers/gunspin.webp",
+		"path": "/games/gunspin/index.html"
+	},
+	{
+		"id": "crossyroad",
+		"name": "Crossy Road",
+		"cover": "/covers/crossyroad.jpeg",
+		"path": "/games/crossyroad/index.html"
+	}
+]

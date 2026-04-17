@@ -1,0 +1,3 @@
+- / oyun dizini olacak, bu zaten böyle
+- /play-game?q={oyunadi} şeklinde bir endpoint olacak, bu endpoint'e istek atıldığında oyun adıyla eşleşen bir oyun varsa o oyunu çalıştıracak, yoksa hata verecek
+- /play-game arayüzü için alttaki barda: oyun adı, bar gizleme ve açma, tam ekran yapma ve ana menüye dönme butonları olacak
